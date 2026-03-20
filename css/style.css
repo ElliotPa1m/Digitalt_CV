@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Giraffey';
+    src: url('../fonts/Giraffey.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body {
+    font-family: 'Giraffey', sans-serif;
+    font-size: 30px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+#header-h1 {
+    font-family: 'Giraffey', sans-serif;
+    font-size: 60px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+#profil-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+#mobil {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-weight: normal;
+}
